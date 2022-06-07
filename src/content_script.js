@@ -2,4 +2,8 @@
 
 "use strict";
 
-document.querySelector('[web_client]').click();
+const zoomLinkElement = "a[web_client]";
+
+document.arrive(zoomLinkElement, {onceOnly: true, existing: true}, function(elem) {
+    elem.click();
+});
