@@ -4,9 +4,6 @@
   "description": "Autolaunch zoom in browser window",
   "version": "1.0.1",
   "author": "dev@conceptualspace.net",
-  "permissions": [
-    "activeTab"
-  ],
   "host_permissions": [
     "*://*.zoom.us/*"
   ],
@@ -19,6 +16,6 @@
     }
   ],
   "icons": {
-    "512": "img/icon512.png"
+    "512": "img/zoomiconalt3.png"
   }
 }
