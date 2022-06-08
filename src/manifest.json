@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Zoom Web Launcher",
-  "description": "Autolaunch zoom in your browser without waiting for the link",
+  "description": "Automatically open zoom in your browser without waiting for the link",
   "version": "1.0.1",
   "author": "dev@conceptualspace.net",
   "host_permissions": [
